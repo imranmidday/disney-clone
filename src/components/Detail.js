@@ -113,6 +113,9 @@ const AddButton = styled.button`
         font-size: 30px;
         color: white;
     }
+    &:hover {
+        background: rgb(198,198,198);
+    }
 `
 const GroupWatchButton = styled(AddButton)`
     background: rgb(0,0,0);
