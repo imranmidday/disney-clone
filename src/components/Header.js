@@ -3,7 +3,9 @@ import styled from 'styled-components'
 function Header() {
     return (
         <Nav>
+            <a href="/">
             <Logo src="/images/logo.svg"/>
+            </a>
             <NavMenu>
                 <a>
                     <img src="/images/home-icon.svg"/>
@@ -29,6 +31,8 @@ function Header() {
                     <img src="/images/series-icon.svg"/>
                     <span>SERIES</span>
                 </a>
+                <a href="/login">Login</a>
+                <a href="/detail">Detail</a>
 
 
 
