@@ -31,8 +31,6 @@ function Header() {
                     <img src="/images/series-icon.svg"/>
                     <span>SERIES</span>
                 </a>
-                <a href="/login">Login</a>
-                <a href="/detail">Detail</a>
 
 
 
