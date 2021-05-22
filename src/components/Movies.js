@@ -10,7 +10,7 @@ function Movies() {
 
     return (
         <Container>
-            <h4>Recommended for you</h4>
+            <h4>Recommended for you imran</h4>
             <Content>
                 { movies &&
                     movies.map((movie)=>(
