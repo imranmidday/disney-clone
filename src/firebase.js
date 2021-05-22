@@ -4,7 +4,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyB6cjMQ7tI1C-3TFByG8N_ZOzbm7StCF78",
   authDomain: "disney-clone-71087.firebaseapp.com",
   projectId: "disney-clone-71087",
-  storageBucket: "disney-clone-71087.appspot.com",
+  storageBucket: "disneyplus-clone-a33d5.appspot.com",
   messagingSenderId: "37918794208",
   appId: "1:37918794208:web:dbe9842dfe1dda522a4b85",
   measurementId: "G-DRVLJKWRWG",
